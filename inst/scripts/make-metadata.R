@@ -107,7 +107,7 @@ RDataPath=c('octad.db/CCLE.log2.read.count.matrix.rda',
   'octad.db/phenoDF.rda',
   'octad.db/random_gsea_score.rda',
   'octad.db/tsne.rda',
-  'octad.db/octad.counts.and.tpm.h5',
+  'octad.counts.and.tpm.h5',
   'octad.db/res_example.rda',
   'octad.db/sRGES_example.rda'
 ),
