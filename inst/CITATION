@@ -28,10 +28,10 @@ citEntry(
                            role ="aut",
                            email = "chenbi12@msu.edu")
          ),
-  journal  = ,
+  journal  = 'Nature protocols',
   year     = "2021",
   number   = "16",
   pages    = "728-753",
   url      = "http://octad.org/",
-  textVersion = paste("Zeng, B., Glickberg, B., Newbury, P, Chekalin, E., Xing, J., Liu, K., Wen, A., Chow, C., Chen, B., OCTAD: an open workspace for virtually screening therapeutics targeting precise cancer patient groups using gene expression features.")
+  textVersion = "Zeng, B., Glickberg, B., Newbury, P, Chekalin, E., Xing, J., Liu, K., Wen, A., Chow, C., Chen, B., OCTAD: an open workspace for virtually screening therapeutics targeting precise cancer patient groups using gene expression features."
   )
