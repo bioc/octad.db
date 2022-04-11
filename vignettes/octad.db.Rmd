@@ -30,10 +30,8 @@ head(phenoDF) #list all data included within the package
 
 Besides, the package includes examples of the output from diffExp and runsRGES functions from the octad package along with desctiption of the data:
 ```{r eval=TRUE} 
-res=octad.db::res_example #load example res from octad.db
-?res_example
-sRGES=octad.db::sRGES_example #load example sRGES from octad.db
-?sRGES_example
+res=data("res_example",package='octad.db') #load example res from octad.db
+sRGES=data("sRGES_example",package='octad.db') #load example sRGES from octad.db
 ```
 
 Please note, this is a database-like package for the main package octad which can be obtained [here](https://github.com/Bin-Chen-Lab/octad)

@@ -3,7 +3,8 @@
 \docType{data}
 \name{res_example}
 \alias{res_example}
-\title{Differential expression example for HCC vs adjacent liver tissue computed in diffExp() function}
+\title{export
+Differential expression example for HCC vs adjacent liver tissue computed in diffExp() function}
 \format{
 A data.frame with 963 rows and 18 variables:
 \describe{
@@ -28,6 +29,7 @@ A data.frame with 963 rows and 18 variables:
 res_example
 }
 \description{
+export
 Differential expression example for HCC vs adjacent liver tissue computed in diffExp() function
 }
 \keyword{datasets}

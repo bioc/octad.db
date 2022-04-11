@@ -1,3 +1,4 @@
+#' export
 #' Differential expression example for HCC vs adjacent liver tissue computed in diffExp() function
 #' 
 #' @format A data.frame with 963 rows and 18 variables:
