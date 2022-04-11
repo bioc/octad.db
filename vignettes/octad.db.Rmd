@@ -30,9 +30,9 @@ head(phenoDF) #list all data included within the package
 
 Besides, the package includes examples of the output from diffExp and runsRGES functions from the octad package along with desctiption of the data:
 ```{r eval=TRUE} 
-sRGES=sRGES=.eh[['EH7278']] #load example res from octad.db
+res=res_example #load example res from octad.db
 ?res_example
-sRGES=sRGES=.eh[['EH7279']] #load example sRGES from octad.db
+sRGES=sRGES_example #load example sRGES from octad.db
 ?sRGES_example
 ```
 
