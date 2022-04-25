@@ -11,7 +11,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 BiocManager::install("octad.db")
 ```
 The code can be viewed at the GitHub repository, which also lists the contributor code of conduct:
-\url{https://github.com/Bin-Chen-Lab/OCTAD}
+[git octa.db](https://github.com/Bin-Chen-Lab/OCTAD)
 
 # Please note, this is a support package for the main package ```octad``` which can be obtained [there](https://github.com/Bin-Chen-Lab/octad)
 
