@@ -40,7 +40,7 @@ Besides, the package includes examples of the output from diffExp and runsRGES f
 The code can be viewed at the GitHub repository,
 which also lists the contributor code of conduct:
 
-\url{https://bioconductor.org/packages/octad} or \url{https://github.com/Bin-Chen-Lab/OCTAD} for the pipeline package
+\url{https://bioconductor.org/packages/octad} or \url{https://github.com/Bin-Chen-Lab/octad} for the pipeline package
 }
 \references{
 Zeng, B., Glicksberg, B.S., Newbury, P., Chekalin, E., Xing, J., Liu, K., Wen, A., Chow, C. and Chen, B., 2021. OCTAD: an open workspace for virtually screening therapeutics targeting precise cancer patient groups using gene expression features. Nature protocols, 16(2), pp.728-753.

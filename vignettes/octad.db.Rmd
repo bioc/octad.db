@@ -24,7 +24,7 @@ Initialization of the pipeline starts with listing all available samples:
 ```{r eval=TRUE} 
 #select data
 suppressMessages(library(octad.db))
-phenoDF=.eh[["EH7274"]] #load data.frame with samples included in the OCTAD database. 
+phenoDF=get_ExperimentHub_data("EH7274") #load data.frame with samples included in the OCTAD database. 
 head(phenoDF) #list all data included within the package
 ```
 
@@ -34,9 +34,10 @@ data("res_example",package='octad.db') #load example res from octad.db
 data("sRGES_example",package='octad.db') #load example sRGES from octad.db
 ```
 
-Please note, this is a database-like package for the main package octad which can be obtained [here]https://bioconductor.org/packages/octad)
-After the package will be accepted to the bioconductor, it will be available on the [bioconductor website](https://bioconductor.org/octad.db)
-#Session information
+Please note, this is a database-like package for the main package octad which can be obtained [here](https://bioconductor.org/packages/octad)
+After the package will be accepted to the bioconductor, it will be available on the [bioconductor website](https://bioconductor.org/octad)
+
+# Session information 
 Here is the output of sessionInfo on the system where this document was compiled:
 ```{r eval=TRUE} 
 sessionInfo()

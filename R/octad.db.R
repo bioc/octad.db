@@ -34,7 +34,7 @@
 #' The code can be viewed at the GitHub repository,
 #' which also lists the contributor code of conduct:
 #'
-#' \url{https://bioconductor.org/packages/octad} or \url{https://github.com/Bin-Chen-Lab/OCTAD} for the pipeline package
+#' \url{https://bioconductor.org/packages/octad} or \url{https://github.com/Bin-Chen-Lab/octad} for the pipeline package
 #' 
 #' 
 #' @references
