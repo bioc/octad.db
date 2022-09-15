@@ -28,5 +28,5 @@ get_ExperimentHub_data  <- function(file=NULL)
 #}
 
 .onAttach <- function(libname, pkgname) {
-  packageStartupMessage("Welcome to octad.db package. This is a database package, pipeline available via the octad package. If you want to run the pipeline on the webserver, please, refer to octad.org")
+  packageStartupMessage("Welcome to octad.db package. This is a database package, pipeline available via the octad package. If you want to run the pipeline on the webserver, please refer to octad.org")
 }

@@ -21,7 +21,8 @@ As the field of precision medicine progresses, we start to tailor treatments for
 
 Package includes all required data for drug repurposing OCTAD pipeline. 
 Initialization of the pipeline starts with listing all available samples:
-```{r eval=TRUE} 
+```{r eval=TRUE}
+library(octad.db)
 #select data
 suppressMessages(library(octad.db))
 phenoDF=get_ExperimentHub_data("EH7274") #load data.frame with samples included in the OCTAD database. 
