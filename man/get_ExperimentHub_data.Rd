@@ -19,4 +19,5 @@
   phenoDF=get_ExperimentHub_data("EH7274") #load data.frame with samples included in the OCTAD database. 
   head(phenoDF)
 }
+\value{Returns a data.frame object depends on the call}
 \keyword{get_ExperimentHub_data}
