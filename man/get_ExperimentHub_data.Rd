@@ -15,7 +15,6 @@
   \code{\link{octad.db}}.
 }
 \examples{
-  library(octad.db)
   phenoDF=get_ExperimentHub_data("EH7274") #load data.frame with samples included in the OCTAD database. 
   head(phenoDF)
 }
