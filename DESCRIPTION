@@ -41,3 +41,4 @@ VignetteBuilder: knitr
 Suggests: 
     knitr,
     rmarkdown
+Config/Bioconductor/UnsupportedPlatforms: windows
